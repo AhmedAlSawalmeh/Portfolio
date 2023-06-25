@@ -1,0 +1,15 @@
+.email{
+    font-size: 8px;
+    color: black;
+}
+.message{
+    font-size: 4px;
+    color: black;
+    height: 30px;
+}
+.submit{
+    font-size: 8px;
+}
+p{
+    font-size: 4px;
+}
